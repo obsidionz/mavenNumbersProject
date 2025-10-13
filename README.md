@@ -1,2 +1,3 @@
 # mavenNumbersProject
-a simple maven project to add/sub numbers
+A simple maven project to add/sub numbers
+Unit Test example

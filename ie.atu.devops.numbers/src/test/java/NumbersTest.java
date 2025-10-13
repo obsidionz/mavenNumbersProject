@@ -1,4 +1,7 @@
 import junit.framework.*;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+import org.junit.jupiter.api.Test;
 
 public class NumbersTest extends TestCase{
 	
@@ -20,3 +23,4 @@ public class NumbersTest extends TestCase{
 		//fail("Not yet implemented");
 	}
 }
+
